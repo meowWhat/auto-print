@@ -1,0 +1,27 @@
+#article {
+  position: fixed;
+  width: 50%;
+  height: 800px;
+  right: 0;
+  left: 50%;
+  top: 0;
+}
+
+.html {
+  color: rgb(222, 222, 222);
+  background: rgb(0, 43, 54);
+  height: 2000px;
+}
+h2 {
+  margin: 5px;
+}
+ul {
+  margin-left: 20px;
+}
+li {
+  margin: 5px 0 !important;
+}
+
+.skill {
+  margin-top: 30px;
+}
